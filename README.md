@@ -14,6 +14,15 @@ You can find me on [![LinkedIn][3.2]][3]
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=11324D)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=11324D)
 
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/deyuna/deyuna">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deyuna=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/deyuna/deyuna">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deyuna&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Deyuna's GitHub Stats" />
+</a>
+
 <!--
 **deyuna/deyuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
