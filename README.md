@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Deyuna Arham Rusmiland and I'm an undergraduate Computer Science student at University of Indonesia. I'm a Web Development and UI/UX enthusiast. Currently attempting to learn UI/UX by taking part in the UI/UX contest.
+My name is Deyuna Arham Rusmiland and I'm an undergraduate Computer Science student at University of Indonesia. I'm a Web Developer and UI/UX enthusiast. Currently attempting to learn UI/UX by taking part in the UI/UX contest.
 
 You can find me on [![LinkedIn][3.2]][3]
 
